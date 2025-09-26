@@ -1,4 +1,4 @@
 test:
   properties:
     key: value
-    number: 123a
+    number: 12
